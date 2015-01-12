@@ -1,2 +1,3 @@
 # GitHubRoot
-Jeffrey GitHub Root Space
+Root repository
+I love :coffee:, :pizza:, and :dancer:.
